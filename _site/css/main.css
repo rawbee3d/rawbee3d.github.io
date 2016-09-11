@@ -5828,25 +5828,29 @@ button.close {
 .btn:hover {
   background: #6900E1; }
 
+.buttons {
+  padding: 20px 0; }
+
 .section-break {
-  padding: 150px 0px; }
-
-.section-break2 {
-  padding: 110px 0px; }
-
-.jumbotron {
-  height: 350px;
-  color: #fff;
-  text-shadow: #444 0 1px 1px;
-  background: transparent;
-  padding: 50px 0; }
+  padding: 100px; }
 
 .img-circle {
   height: 250px;
   width: auto; }
 
 .title-text {
-  padding: 100px 0; }
+  color: #fff;
+  text-shadow: #444 0 1px 1px;
+  padding-top: 100px;
+  padding-bottom: 170px; }
+
+.title-text h1 {
+  font-size: 5em;
+  padding: 15px 0; }
+
+.title-text p {
+  font-size: 1.5em;
+  padding-bottom: 15px 0; }
 
 .section-title {
   font-size: 4em;

@@ -1,4 +1,3 @@
-// Javascript for Jumpotron Image and Bllur Filter
 
 var jumboHeight = $('.jumbotron').outerHeight();
 function parallax(){
@@ -9,13 +8,13 @@ function parallax(){
 $(window).scroll(function(e){
     parallax();
 });
-// modal auto focus
+
 
 $('#myModal').on('shown.bs.modal', function () {
   $('#myInput').focus()
 })
 
-// modal function
+
 $(document).ready(function () {
   $("input#submit").click(function(){
     $.ajax({
@@ -32,5 +31,3 @@ $(document).ready(function () {
     });
   });
 });
-
-// blur
