@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MJ Phillips, I &lt;3 my Husky</title>
+    <title>MJ Phillips - I &lt;3 my Husky</title>
     <description>I'm Michael James Phillips, this is my website
 </description>
     <link>http://rawbee3d/rawbee3d.github.io/</link>
     <atom:link href="http://rawbee3d/rawbee3d.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Oct 2016 16:50:12 -0700</pubDate>
-    <lastBuildDate>Sun, 09 Oct 2016 16:50:12 -0700</lastBuildDate>
+    <pubDate>Sun, 09 Oct 2016 17:15:48 -0700</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2016 17:15:48 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
   </channel>
