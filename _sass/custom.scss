@@ -1,6 +1,9 @@
-
 .nav-logo {
   padding: 10px 0px;
+}
+
+.navbar a:hover {
+  background: transparent !important;
 }
 
 .bg-home {
@@ -33,6 +36,7 @@
 .img-circle {
   height: 250px;
   width: auto;
+  margin-top: 30px;
 }
 
 .title-text {
@@ -141,6 +145,13 @@
   background: #DB8100;
 }
 
+.slideshow {
+  margin-top: 30px;
+}
+div.carousel-inner img{
+    margin: 0 auto;
+}
+
 .content2 {
   padding: 20px;
   background: #5811A8;
@@ -157,7 +168,7 @@
  }
 
 .custom-modal {
-  background: #47078F;
+  background: #47078F !important;
 }
 
 .custom-modal h4 {
@@ -183,5 +194,5 @@ a {
 
 a:hover {
   color: #FF00D1 !important;
-  text-decoration: none;
+  text-decoration: none !important;
 }

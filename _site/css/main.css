@@ -5812,6 +5812,9 @@ button.close {
 .nav-logo {
   padding: 10px 0px; }
 
+.navbar a:hover {
+  background: transparent !important; }
+
 .bg-home {
   background: #00E143;
   position: fixed;
@@ -5836,7 +5839,8 @@ button.close {
 
 .img-circle {
   height: 250px;
-  width: auto; }
+  width: auto;
+  margin-top: 30px; }
 
 .title-text {
   color: #fff;
@@ -5925,6 +5929,12 @@ button.close {
   padding: 20px;
   background: #DB8100; }
 
+.slideshow {
+  margin-top: 30px; }
+
+div.carousel-inner img {
+  margin: 0 auto; }
+
 .content2 {
   padding: 20px;
   background: #5811A8; }
@@ -5939,7 +5949,7 @@ button.close {
   border-width: 0px; }
 
 .custom-modal {
-  background: #47078F; }
+  background: #47078F !important; }
 
 .custom-modal h4 {
   color: #fff;
@@ -5960,4 +5970,4 @@ a {
 
 a:hover {
   color: #FF00D1 !important;
-  text-decoration: none; }
+  text-decoration: none !important; }
