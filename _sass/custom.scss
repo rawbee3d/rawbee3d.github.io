@@ -134,7 +134,7 @@
     font-size: 4em;
     color: #fff;
     text-shadow: #444 0 1px 1px;
-    padding: 30px 0px;
+    padding: 20px 0px;
   }
 
 .section-heading {
@@ -152,6 +152,25 @@
 .section-paragraph {
   color: #fff;
   text-shadow: #444 0 1px 1px;
+}
+
+.project-button{
+  margin-top: 30px;
+  color: #fff;
+  text-shadow: #444 0 1px 1px;
+  background: #47078F;
+  border-radius: 3px;
+  border-color: transparent;
+}
+
+.project-button:hover {
+  background: #FF00D1;
+}
+
+.project-button h2 {
+  padding-bottom: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .site-footer {
