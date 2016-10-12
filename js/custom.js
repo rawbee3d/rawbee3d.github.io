@@ -33,7 +33,7 @@ $(document).ready(function () {
 });
 
 $(function() {
-  $('a[href*="#"]:not([href="#"])').click(function() {
+  $('a[href*=#]:not([href=#]):not(.carousel-control)').click(function () {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
       var target = $(this.hash);
       target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
@@ -46,3 +46,15 @@ $(function() {
     }
   });
 });
+
+$('#FTModal').on('shown.bs.modal', function () {
+  $('#FTInput').focus()
+})
+
+$('#PTModal').on('shown.bs.modal', function () {
+  $('#PTInput').focus()
+})
+
+$('#FLModal').on('shown.bs.modal', function () {
+  $('#FLInput').focus()
+})
