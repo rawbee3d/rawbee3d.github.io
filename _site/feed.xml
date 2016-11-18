@@ -4,11 +4,11 @@
     <title>MJ Phillips - I &lt;3 my Husky</title>
     <description>I'm Michael James Phillips, this is my website
 </description>
-    <link>http://rawbee3d/rawbee3d.github.io/</link>
-    <atom:link href="http://rawbee3d/rawbee3d.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Oct 2016 07:17:31 -0700</pubDate>
-    <lastBuildDate>Wed, 12 Oct 2016 07:17:31 -0700</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 18 Nov 2016 12:25:00 -0800</pubDate>
+    <lastBuildDate>Fri, 18 Nov 2016 12:25:00 -0800</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
     
   </channel>
 </rss>
