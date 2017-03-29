@@ -1,11 +1,10 @@
-# Site settings
-title: MJ Phillips - I <3 my Husky
-email: michael@formationtech.com
-description: > # this means to ignore newlines until "baseurl:"
-  I'm Michael James Phillips, this is my website
-baseurl: ""
-url: "http://rawbee3d/rawbee3d.github.io"
-twitter_username: rawbee3d
-github_username:  rawbee3d
 
-markdown:
+title: MJ Phillips
+email:
+description:
+baseurl: ""
+url: "mjphillips.us"
+twitter_username: rawbee3d
+github_username: rawbee3d
+
+markdown: kramdown
