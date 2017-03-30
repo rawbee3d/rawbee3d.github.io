@@ -5820,7 +5820,7 @@ button.close {
   font-weight: normal;
   font-style: normal; }
 .bg-1 {
-  background: url(/img/BG1.jpg) no-repeat center center fixed;
+  background: url(/img/BG1.svg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -5828,7 +5828,7 @@ button.close {
   overflow: hidden; }
 
 .bg-2 {
-  background: url(/img/BG2.jpg) no-repeat center center fixed;
+  background: url(/img/BG2.svg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -5836,7 +5836,7 @@ button.close {
   overflow: hidden; }
 
 .bg-3 {
-  background: url(/img/BG3.jpg) no-repeat center center fixed;
+  background: url(/img/BG3.svg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -5844,7 +5844,7 @@ button.close {
   overflow: hidden; }
 
 .bg-4 {
-  background: url(/img/BG4.jpg) no-repeat center center fixed;
+  background: url(/img/BG4.svg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
