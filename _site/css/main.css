@@ -5845,7 +5845,7 @@ button.close {
 
 @media only screen and (min-width: 320px) and (max-width: 480px) {
   .bg-2 {
-    background: url(/img/BG2_v.svg) no-repeat center center;
+    background: url(/img/BG2_v.svg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -5861,7 +5861,7 @@ button.close {
 
 @media only screen and (min-width: 320px) and (max-width: 480px) {
   .bg-3 {
-    background: url(/img/BG3_v.svg) no-repeat center center;
+    background: url(/img/BG3_v.svg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -5877,7 +5877,7 @@ button.close {
 
 @media only screen and (min-width: 320px) and (max-width: 480px) {
   .bg-4 {
-    background: url(/img/BG4_v.svg) no-repeat center center;
+    background: url(/img/BG4_v.svg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -5963,7 +5963,10 @@ footer h4 {
     background-size: cover; }
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .logo-1 {
-      margin-left: 50px; } }
+      margin-left: 55px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .logo-1 {
+      margin-left: 200px; } }
   .thumb-property .logo-2 {
     height: 265px;
     width: 265px;
@@ -5973,6 +5976,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .logo-2 {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .logo-2 {
+      margin-left: 200px; } }
   .thumb-property .logo-3 {
     height: 265px;
     width: 265px;
@@ -5982,6 +5988,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .logo-3 {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .logo-3 {
+      margin-left: 200px; } }
   .thumb-property .logo-4 {
     height: 265px;
     width: 265px;
@@ -5991,6 +6000,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .logo-4 {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .logo-4 {
+      margin-left: 200px; } }
   .thumb-property .logo-5 {
     height: 265px;
     width: 265px;
@@ -6000,6 +6012,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .logo-5 {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .logo-5 {
+      margin-left: 200px; } }
   .thumb-property .logo-6 {
     height: 265px;
     width: 265px;
@@ -6009,6 +6024,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .logo-6 {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .logo-6 {
+      margin-left: 200px; } }
   .thumb-property .logo-7 {
     height: 265px;
     width: 265px;
@@ -6018,6 +6036,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .logo-7 {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .logo-7 {
+      margin-left: 200px; } }
   .thumb-property .logo-8 {
     height: 265px;
     width: 265px;
@@ -6027,6 +6048,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .logo-8 {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .logo-8 {
+      margin-left: 200px; } }
   .thumb-property .logo-9 {
     height: 265px;
     width: 265px;
@@ -6036,6 +6060,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .logo-9 {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .logo-9 {
+      margin-left: 200px; } }
   .thumb-property .logo-10 {
     height: 265px;
     width: 265px;
@@ -6045,6 +6072,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .logo-10 {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .logo-10 {
+      margin-left: 200px; } }
   .thumb-property .logo-11 {
     height: 265px;
     width: 265px;
@@ -6054,6 +6084,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .logo-11 {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .logo-11 {
+      margin-left: 200px; } }
   .thumb-property .logo-12 {
     height: 265px;
     width: 265px;
@@ -6063,6 +6096,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .logo-12 {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .logo-12 {
+      margin-left: 200px; } }
   .thumb-property .web-1 {
     height: 265px;
     width: 265px;
@@ -6072,6 +6108,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .web-1 {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .web-1 {
+      margin-left: 200px; } }
   .thumb-property .web-2 {
     height: 265px;
     width: 265px;
@@ -6081,6 +6120,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .web-2 {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .web-2 {
+      margin-left: 200px; } }
   .thumb-property .web-3 {
     height: 265px;
     width: 265px;
@@ -6090,6 +6132,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .web-3 {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .web-3 {
+      margin-left: 200px; } }
   .thumb-property .web-4 {
     height: 265px;
     width: 265px;
@@ -6099,6 +6144,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .web-4 {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .web-4 {
+      margin-left: 200px; } }
   .thumb-property .overlay {
     position: absolute;
     height: 265px;
@@ -6111,6 +6159,9 @@ footer h4 {
   @media only screen and (min-width: 320px) and (max-width: 480px) {
     .thumb-property .overlay {
       margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .overlay {
+      margin-left: 200px; } }
   .thumb-property .info {
     padding-top: 70px;
     font-family: "gilroy-extrabold";

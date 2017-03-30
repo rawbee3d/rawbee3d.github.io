@@ -45,7 +45,7 @@
 
 @media only screen and (min-width : 320px) and (max-width : 480px) {
   .bg-2 {
-    background: url(/img/BG2_v.svg) no-repeat center center;
+    background: url(/img/BG2_v.svg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -65,7 +65,7 @@
 
 @media only screen and (min-width : 320px) and (max-width : 480px) {
   .bg-3 {
-    background: url(/img/BG3_v.svg) no-repeat center center;
+    background: url(/img/BG3_v.svg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -85,7 +85,7 @@
 
 @media only screen and (min-width : 320px) and (max-width : 480px) {
   .bg-4 {
-    background: url(/img/BG4_v.svg) no-repeat center center;
+    background: url(/img/BG4_v.svg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -189,7 +189,13 @@ footer h4 {
 
   @media only screen and (min-width : 320px) and (max-width : 480px) {
     .logo-1 {
-      margin-left: 50px;
+      margin-left: 55px;
+    }
+  }
+
+  @media only screen and (min-width : 481px) and (max-width : 770px) {
+    .logo-1 {
+      margin-left: 200px;
     }
   }
 
@@ -207,6 +213,12 @@ footer h4 {
     }
   }
 
+  @media only screen and (min-width : 481px) and (max-width : 770px) {
+    .logo-2 {
+      margin-left: 200px;
+    }
+  }
+
   .logo-3 {
     height: 265px;
     width: 265px;
@@ -218,6 +230,12 @@ footer h4 {
   @media only screen and (min-width : 320px) and (max-width : 480px) {
     .logo-3 {
       margin-left: 50px;
+    }
+  }
+
+  @media only screen and (min-width : 481px) and (max-width : 770px) {
+    .logo-3 {
+      margin-left: 200px;
     }
   }
 
@@ -235,6 +253,12 @@ footer h4 {
     }
   }
 
+  @media only screen and (min-width : 481px) and (max-width : 770px) {
+    .logo-4 {
+      margin-left: 200px;
+    }
+  }
+
   .logo-5 {
     height: 265px;
     width: 265px;
@@ -246,6 +270,12 @@ footer h4 {
   @media only screen and (min-width : 320px) and (max-width : 480px) {
     .logo-5 {
       margin-left: 50px;
+    }
+  }
+
+  @media only screen and (min-width : 481px) and (max-width : 770px) {
+    .logo-5 {
+      margin-left: 200px;
     }
   }
 
@@ -263,6 +293,12 @@ footer h4 {
     }
   }
 
+  @media only screen and (min-width : 481px) and (max-width : 770px) {
+    .logo-6 {
+      margin-left: 200px;
+    }
+  }
+
   .logo-7 {
     height: 265px;
     width: 265px;
@@ -274,6 +310,12 @@ footer h4 {
   @media only screen and (min-width : 320px) and (max-width : 480px) {
     .logo-7 {
       margin-left: 50px;
+    }
+  }
+
+  @media only screen and (min-width : 481px) and (max-width : 770px) {
+    .logo-7 {
+      margin-left: 200px;
     }
   }
 
@@ -291,6 +333,12 @@ footer h4 {
     }
   }
 
+  @media only screen and (min-width : 481px) and (max-width : 770px) {
+    .logo-8 {
+      margin-left: 200px;
+    }
+  }
+
   .logo-9 {
     height: 265px;
     width: 265px;
@@ -302,6 +350,12 @@ footer h4 {
   @media only screen and (min-width : 320px) and (max-width : 480px) {
     .logo-9 {
       margin-left: 50px;
+    }
+  }
+
+  @media only screen and (min-width : 481px) and (max-width : 770px) {
+    .logo-9 {
+      margin-left: 200px;
     }
   }
 
@@ -319,6 +373,12 @@ footer h4 {
     }
   }
 
+  @media only screen and (min-width : 481px) and (max-width : 770px) {
+    .logo-10 {
+      margin-left: 200px;
+    }
+  }
+
   .logo-11 {
     height: 265px;
     width: 265px;
@@ -330,6 +390,12 @@ footer h4 {
   @media only screen and (min-width : 320px) and (max-width : 480px) {
     .logo-11 {
       margin-left: 50px;
+    }
+  }
+
+  @media only screen and (min-width : 481px) and (max-width : 770px) {
+    .logo-11 {
+      margin-left: 200px;
     }
   }
 
@@ -347,6 +413,12 @@ footer h4 {
     }
   }
 
+  @media only screen and (min-width : 481px) and (max-width : 770px) {
+    .logo-12 {
+      margin-left: 200px;
+    }
+  }
+
     .web-1 {
       height: 265px;
       width: 265px;
@@ -358,6 +430,12 @@ footer h4 {
     @media only screen and (min-width : 320px) and (max-width : 480px) {
       .web-1 {
         margin-left: 50px;
+      }
+    }
+
+    @media only screen and (min-width : 481px) and (max-width : 770px) {
+      .web-1 {
+        margin-left: 200px;
       }
     }
 
@@ -375,6 +453,13 @@ footer h4 {
       }
     }
 
+    @media only screen and (min-width : 481px) and (max-width : 770px) {
+      .web-2 {
+        margin-left: 200px;
+      }
+    }
+
+
     .web-3 {
       height: 265px;
       width: 265px;
@@ -389,6 +474,13 @@ footer h4 {
       }
     }
 
+    @media only screen and (min-width : 481px) and (max-width : 770px) {
+      .web-3 {
+        margin-left: 200px;
+      }
+    }
+
+
     .web-4 {
       height: 265px;
       width: 265px;
@@ -402,6 +494,13 @@ footer h4 {
         margin-left: 50px;
       }
     }
+
+    @media only screen and (min-width : 481px) and (max-width : 770px) {
+      .web-4 {
+        margin-left: 200px;
+      }
+    }
+
 
   .overlay {
     position: absolute;
@@ -419,6 +518,13 @@ footer h4 {
       margin-left: 50px;
     }
   }
+
+  @media only screen and (min-width : 481px) and (max-width : 770px) {
+    .overlay {
+      margin-left: 200px;
+    }
+  }
+
 
   .info {
     padding-top: 70px;
