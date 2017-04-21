@@ -6145,7 +6145,31 @@ footer h4 {
     .thumb-property .web-4 {
       margin-left: 50px; } }
   @media only screen and (min-width: 481px) and (max-width: 770px) {
-    .thumb-property .web-4 {
+    .thumb-property .web-5 {
+      margin-left: 200px; } }
+  .thumb-property .web-5 {
+    height: 265px;
+    width: 265px;
+    background: url(/img/DateBagged.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; }
+  @media only screen and (min-width: 320px) and (max-width: 480px) {
+    .thumb-property .web-5 {
+      margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .web-5 {
+      margin-left: 200px; } }
+  .thumb-property .web-6 {
+    height: 265px;
+    width: 265px;
+    background: url(/img/Vision.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; }
+  @media only screen and (min-width: 320px) and (max-width: 480px) {
+    .thumb-property .web-6 {
+      margin-left: 50px; } }
+  @media only screen and (min-width: 481px) and (max-width: 770px) {
+    .thumb-property .web-6 {
       margin-left: 200px; } }
   .thumb-property .overlay {
     position: absolute;
